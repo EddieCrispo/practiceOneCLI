@@ -1,4 +1,6 @@
 # practiceOneCLI
+
 ## Zidan "The Photographer" Ramdhani
 
-All Is Well
+All Is not Well
+Pls send help
